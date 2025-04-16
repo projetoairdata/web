@@ -1,0 +1,20 @@
+site_name: Projeto AirData
+theme:
+  name:  mkdocs
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+
+nav:
+  - Início: index.md
+  - Pesquisadores:
+      - Marcelo Guterres: pesquisadores/marcelo_guterres.md
+      - Flávio Mendes Neto: pesquisadores/flavio_mendes_neto.md
+      - Dimas Ribeiro: pesquisadores/dimas_ribeiro.md
+      - Jean Lima: pesquisadores/jean_lima.md
+      - Guilherme Bernardo: pesquisadores/guilherme_bernardo.md
+      - João Szenczuk: pesquisadores/joao_szenczuk.md
+      - João Vitor: pesquisadores/joao_vitor.md
+      - Vitor Correa: pesquisadores/vitor_correa.md
+
