@@ -52,20 +52,17 @@ Apenas os responsáveis com acesso podem publicar o site com:
 
 Esse comando gera os arquivos HTML e envia para o GitHub Pages.
 
-📁 Estrutura de diretórios
----------------------------
+### 📁 Estrutura de diretórios
 
-```text
-web/
-├── docs/
-│   ├── index.md
-│   └── pesquisadores/
-│       ├── marcelo_guterres.md
-│       ├── flavio_mendes_neto.md
-│       └── ...
-├── mkdocs.yml
-└── README.md
-```text
+📁 **web/**
+  - 📁 **docs/**
+    - 📄 **index.md**
+    - 📁 **pesquisadores/**
+      - 📄 **marcelo_guterres.md**
+      - 📄 **flavio_mendes_neto.md**
+      - 📄 **...**
+  - 📄 **mkdocs.yml**
+  - 📄 **README.md**
 
 ✨ Sobre o Projeto AirData
 --------------------------
