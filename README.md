@@ -65,6 +65,7 @@ web/
 │       └── ...
 ├── mkdocs.yml
 └── README.md
+```text
 
 ✨ Sobre o Projeto AirData
 --------------------------
