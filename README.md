@@ -1,14 +1,14 @@
 
-🌐 Projeto AirData — Documentação Oficial
+🌐 Projeto AirData
 =========================================
 
 Este repositório contém a **documentação do Projeto AirData**, estruturada com o gerador estático MkDocs e publicada automaticamente via **GitHub Pages**.
 
-📌 Objetivo
+Objetivo
 -----------
 O objetivo deste site é **centralizar a descrição do projeto e registrar a participação dos pesquisadores** envolvidos na iniciativa. Cada pesquisador possui uma página individual em `.md` onde pode registrar contribuições, estudos, dados e observações relevantes.
 
-🧑‍🔬 Contribuições dos Pesquisadores
+Contribuições dos Pesquisadores
 -------------------------------------
 Cada pesquisador possui um arquivo `.md` localizado na pasta `docs/pesquisadores/`.
 
@@ -29,7 +29,7 @@ Como atualizar:
 4. A alteração estará visível em:
    https://projetoairdata.github.io/web/
 
-🚀 Como rodar o site localmente
+Como rodar o site localmente
 -------------------------------
 1. Clone o repositório:
    git clone git@github.com:projetoairdata/web.git
@@ -44,7 +44,7 @@ Como atualizar:
 4. Acesse no navegador:
    http://localhost:8000
 
-🌍 Como publicar atualizações online
+Como publicar atualizações online
 ------------------------------------
 Apenas os responsáveis com acesso podem publicar o site com:
 
@@ -68,7 +68,8 @@ Esse comando gera os arquivos HTML e envia para o GitHub Pages.
       - 📄 vitor_correa.md
   - 📄 **mkdocs.yml**
   - 📄 **README.md**
-✨ Sobre o Projeto AirData
+  
+Sobre o Projeto AirData
 --------------------------
 O AirData é uma iniciativa do ITA, ANAC, SAC e DECEA para construir uma base de dados integrada da aviação civil brasileira, apoiada por **inteligência artificial**, para análise, monitoramento e tomada de decisão no setor aéreo.
 
