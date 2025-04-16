@@ -19,7 +19,6 @@ Exemplo:
 - docs/pesquisadores/jean_lima.md
 - docs/pesquisadores/joao_szenczuk.md
 - docs/pesquisadores/joao_vitor.md
-- docs/pesquisadores/marcelo_guterres.md
 - docs/pesquisadores/vitor_correa.md
 
 Como atualizar:
