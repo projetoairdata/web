@@ -1,9 +1,5 @@
 ## Projeto AIRDATA
 
-
-
-## Visão Geral
-
 O projeto **AIRDATA:** - Inteligência Artificial para Análise de Dados de Aviação Civil, tem como objetivo o desenvolvimento de uma base de dados integrada da aviação civil brasileira, com suporte de **inteligência artificial (IA)** para análise e apoio à tomada de decisão. A iniciativa é coordenada pelo ITA, em parceria com órgãos como ANAC, DECEA e SAC.
 
 A proposta é consolidar e correlacionar dados de diversas fontes, como bases institucionais e dados de trajetória do OpenSky, aplicando técnicas avançadas de **machine learning** e IA generativa. O sistema resultante permitirá análises descritivas, preditivas e prescritivas sobre eventos do setor aéreo.
