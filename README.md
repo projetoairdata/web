@@ -58,12 +58,16 @@ Esse comando gera os arquivos HTML e envia para o GitHub Pages.
   - 📁 **docs/**
     - 📄 **index.md**
     - 📁 **pesquisadores/**
-      - 📄 **marcelo_guterres.md**
-      - 📄 **flavio_mendes_neto.md**
-      - 📄 **...**
+      - 📄 dimas_ribeiro.md
+      - 📄 flavio_mendes_neto.md
+      - 📄 guilherme_bernardo.md
+      - 📄 jean_lima.md
+      - 📄 joao_szenczuk.md
+      - 📄 joao_vitor.md
+      - 📄 marcelo_guterres.md
+      - 📄 vitor_correa.md
   - 📄 **mkdocs.yml**
   - 📄 **README.md**
-
 ✨ Sobre o Projeto AirData
 --------------------------
 O AirData é uma iniciativa do ITA, ANAC, SAC e DECEA para construir uma base de dados integrada da aviação civil brasileira, apoiada por **inteligência artificial**, para análise, monitoramento e tomada de decisão no setor aéreo.
