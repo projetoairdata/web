@@ -54,6 +54,8 @@ Esse comando gera os arquivos HTML e envia para o GitHub Pages.
 
 📁 Estrutura de diretórios
 ---------------------------
+
+```text
 web/
 ├── docs/
 │   ├── index.md
