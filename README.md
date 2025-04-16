@@ -15,8 +15,12 @@ Cada pesquisador possui um arquivo `.md` localizado na pasta `docs/pesquisadores
 Exemplo:
 - docs/pesquisadores/marcelo_guterres.md
 - docs/pesquisadores/flavio_mendes_neto.md
+- docs/pesquisadores/dimas_ribeiro.md
+- docs/pesquisadores/jean_lima.md
 - docs/pesquisadores/joao_szenczuk.md
-- etc.
+- docs/pesquisadores/joao_vitor.md
+- docs/pesquisadores/marcelo_guterres.md
+- docs/pesquisadores/vitor_correa.md
 
 Como atualizar:
 1. Edite diretamente o seu arquivo `.md`, usando Markdown padrão.
