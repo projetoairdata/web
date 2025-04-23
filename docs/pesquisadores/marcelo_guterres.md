@@ -5,6 +5,9 @@ Marcelo Xavier Guterres
 ## Semana 02
 
 - Período 22/04/2025 a 29/04/2025
+- Preparação e evio da FR;
+- Organização da documentação do projeto no github;
+- Coordenação das reuniões com equipe técnica.
 
 
 ##  Semana 01
