@@ -5,6 +5,7 @@ Dimas Ribeiro
 ## Semana 02
 
 - Período 22/04/2025 a 29/04/2025
+- Ambientação com ferramentas utilizadas no projeto.
 
 
 ##  Semana 01
