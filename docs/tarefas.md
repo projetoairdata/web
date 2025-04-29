@@ -1,5 +1,70 @@
 ##📅 Tarefas do Projeto AIRDATA
 
+
+------------------------------------------------------------------------
+## S-03
+
+
+**Grupo 01: Seleção dos servidores ideais para execução do Projeto AIRDATA**
+
+🎯 **Objetivo**
+
+Selecionar a infraestrutura computacional mais adequada, considerando desempenho, escalabilidade, integração, custo e GPU.
+
+✅ **Atividades**
+
+  - Levantar e comparar opções de servidores.
+  - Analisar conforme os seguintes critérios:
+  - tokens/segundo 
+  - Janela de contexto 
+  - Facilidade de Integração 
+  - Fine-tuning 
+  - Suporte a outros idiomas 
+  - Documentação / Comunidade ativa 
+  - Compatibilidade com frameworks 
+  - Capacidade de compreensão textual 
+  - Abordagem híbrida 
+  - Facilidade de prototipagem
+
+💡 **Recomendações**
+
+- Agendar reuniões com fornecedores (AWS, Azure, Google Cloud, etc.).
+- Apresentar a arquitetura inicial planejada.
+- Considerar aderência ao orçamento do projeto.
+
+📄 **Entregável**
+
+Relatório técnico comparativo com recomendação fundamentada.
+
+
+
+**Grupo 2: Preparação dos Instrumentos de Pesquisa**
+
+🎯 **Objetivo**
+
+Consolidar os instrumentos de levantamento de requisitos junto aos futuros usuários do sistema AIRDATA.
+
+✅ **Atividades**
+
+- Finalizar a análise SWOT sobre os questionários elaborados.
+- Preparar o modelo de coleta via entrevistas semi-estruturadas (Google Forms).
+- Produzir material de apresentação do Projeto AIRDATA para os entrevistados.
+- Agendar e conduzir as entrevistas com os potenciais clientes do sistema.
+- Documentar os objetivos e requisitos do sistema com base nas entrevistas.
+- Delimitar o escopo do projeto conforme expectativas levantadas.
+
+📄 **Entregável**
+
+Relatório com:
+
+- Link e descrição do formulário de entrevistas.
+- Registro das entrevistas realizadas.
+- Documento com objetivos, requisitos e escopo preliminar do projeto.
+
+
+
+
+
 ------------------------------------------------------------------------
 
 ## S-02
