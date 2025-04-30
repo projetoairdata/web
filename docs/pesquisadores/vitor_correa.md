@@ -11,6 +11,8 @@ Vitor Lucas Kohls Correa
     - Hardwares minimos para inferências
     - Janelas de contexto (tokens)
     - Se poderiam ser utilizados para uma abordagem híbrida
+- Criação da [Análise SWOT da Arquitetura computacional](https://docs.google.com/document/d/15g-DqLeD-n8LQQVJA2i2VagBTpZrg8_y6vlONuN27cY/edit?usp=sharing)
+- Criação da [Análise SWOT do Questionário dos stakeholders](https://docs.google.com/document/d/123raLMJKsbK-O0E4n1MzIK0NE3gprp5je0XJAz2kD54/edit?usp=sharing)
 
 ##  Semana 01
 
