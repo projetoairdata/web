@@ -9,6 +9,7 @@ Jean Phelipe De Oliveira Lima
 - Estudo sobre configuração de servidores de IA
 - Participação do evento com a SAC
 - Reunião sobre definição de infraestrutura computacional do projeto (dia 06/05)
+- Envio de arquitetura computacional inicial para representante comercial da DELL
 
 
 ## Semana 02
