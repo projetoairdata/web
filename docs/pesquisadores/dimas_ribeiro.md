@@ -2,6 +2,12 @@
 
 Dimas Betioli Ribeiro
 
+## Semana 04
+
+- Período 06/05/2025 a 13/05/2025
+- Agendamento e participação em reuniões com empresas fornecedoras de computadores de alto desempenho.
+- Participação na reunião de abertura do projeto.
+
 ## Semana 03
 
 - Período 29/04/2025 a 06/05/2025
