@@ -2,6 +2,12 @@
 
 Flávio Mendes Neto
 
+## Semana 05
+
+- Período 13/05/2025 a 20/05/2025
+- Avaliação da infraestrutura de hardware necessária (cont)
+- Reunião com a equipe, ANAC, SAC e DECEA sobre o AirData
+
 ## Semana 04
 
 - Período 06/05/2025 a 13/05/2025
