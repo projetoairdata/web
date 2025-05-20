@@ -2,6 +2,13 @@
 
 Vitor Lucas Kohls Correa
 
+## Semana 05
+
+- Período 13/05/2025
+- Criação do documento [Análise de Bases de Dados utilizadas no DEPART].(https://docs.google.com/document/d/1f9VVWEUZGHwKmDoogO52bLyiFdmyY26BWTTiR9QEYpI/edit?usp=sharing)
+- Estudo do funcionamento dos NVIDIA NIMs, como opção para rodar os LLMs localmente e de forma segura.
+- Estudo de mais modelos além dos propostos na Semana 02, como o Llama 3.1 Nemotron Nano 8B V1.
+
 ## Semana 04
 
 - Período 06/05/2025 a 13/05/2025
