@@ -10,6 +10,7 @@
 #### Tarefas
 
 -   [Tarefa S-06 Equipe](drive/Airdata - Reunião 2025-05-20.pdf)
+-   [Tarefa S-05 Vitor e Jean](drive/[S04]%20Análise%20de%20Bases%20de%20dados%20-%20DEPART.pdf)
 -   [Tarefa S-01 João Vitor](drive/Tarefa%20S-01%20João%20Vitor.pptx)
 -   [Tarefa S-01 Guilherme](drive/Tarefa%20S-01%20Guilherme.pdf)
 -   [Tarefa S-01 Jean](drive/Tarefa%20S-01%20Jean.pdf)
