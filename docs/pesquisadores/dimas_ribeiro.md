@@ -2,6 +2,12 @@
 
 Dimas Betioli Ribeiro
 
+## Semana 05
+
+- Período 13/05/2025 a 20/05/2025
+- Agendamento e participação em reuniões com empresas fornecedoras de computadores de alto desempenho.
+- Participação em reunião com os docentes envolvidos no projeto, para definição do escopo do projeto.
+
 ## Semana 04
 
 - Período 06/05/2025 a 13/05/2025
