@@ -17,3 +17,7 @@
 -   [Tarefa S-00 Lucas](drive/Tarefa%20S-00%20Lucas.pdf)
 -   [Tarefa S-00 Jean](drive/Tarefa%20S-00%20Jean.pdf)
 -   [Tarefa S-00 Vitor](drive/Tarefa%20S-00%20Vitor.pdf)
+
+#### Fotos
+
+-   [Abertura oficial do Projeto](images/Abertura ofical do Projeto.jpeg)
