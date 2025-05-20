@@ -2,6 +2,12 @@
 
 Flávio Mendes Neto
 
+## Semana 06
+
+- Período 20/05/2025 a 27/05/2025
+- Avaliação material disponibilizado ANAC
+- Reunião com a equipe, ANAC, SAC e DECEA sobre o AirData
+
 ## Semana 05
 
 - Período 13/05/2025 a 20/05/2025
