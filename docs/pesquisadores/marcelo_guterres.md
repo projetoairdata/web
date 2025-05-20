@@ -2,6 +2,27 @@
 
 Marcelo Xavier Guterres
 
+
+## Semana 05
+
+- Período 13/05/2025 a 20/05/2025
+- Reunião com a NVIDIA
+- Coordenação da Reunião com a equipe, ANAC, SAC e DECEA sobre o AirData
+
+## Semana 04
+
+- Período 06/05/2025 a 13/05/2025
+- Reunião com Renan e Bruno Mariussi  da f2it.com.br
+- Eventos Inova AC-SAC (SJC) 07 e 08 de maio (SAC, ANAC, DECEA, ITA)
+- Coordenação Reunião com a equipe
+
+## Semana 03
+
+- Período 29/04/2025 a 06/05/2025
+- Avaliação da infraestrutura de hardware necessária
+- Reunião com a equipe
+
+
 ## Semana 02
 
 - Período 22/04/2025 a 29/04/2025

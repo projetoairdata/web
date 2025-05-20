@@ -1,9 +1,24 @@
 ##📅 Tarefas do Projeto AIRDATA
 
 
+## S-05
+
+📅 13/05/2025 a 20/05/2025
+
+✅ Reunião com a equipe, ANAC, SAC e DECEA sobre o AirData
+
+------------------------------------------------------------------------
+
+## S-04
+
+📅 06/05/2025 a 13/05/2025
+
+✅ PArticipação nos Eventos Inova AC-SAC (SJC) 07 e 08 de maio (SAC, ANAC, DECEA, ITA)
+
 ------------------------------------------------------------------------
 ## S-03
 
+📅 1Período 29/04/2025 a 06/05/2025
 
 **Grupo 01: Seleção dos servidores ideais para execução do Projeto AIRDATA**
 
